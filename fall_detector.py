@@ -1,3 +1,5 @@
+# Main function call to execute the whole model
+
 import argparse
 import copy
 import multiprocessing
