@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify
 
+# Flask APP used to deploy for the testing 
+
 app = Flask(__name__)
 
 
