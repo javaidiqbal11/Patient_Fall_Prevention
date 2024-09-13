@@ -1,3 +1,5 @@
+# Used the given code for the installer creation 
+
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Fall Alert"
