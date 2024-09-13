@@ -1,3 +1,5 @@
+# list of all default parameters 
+
 DEFAULT_CONSEC_FRAMES = 36
 MIN_THRESH = 0.5
 TAKE_AVG_VALS_GF = False
