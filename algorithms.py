@@ -13,6 +13,7 @@ import datetime
 from fall_http import fall_alert_sender
 from fall_socket import fall_alert_sending
 
+# More algorithms for the detection could be added
 
 def get_source(args):
     tagged_df = None
