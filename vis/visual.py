@@ -95,6 +95,8 @@ UNMATCHED_COLOR = (180, 119, 31)
 """
 Currently using the features: 
 """
+# These selective points used for the four different cases 
+
 activity_dict = {
     5: "Highest Alert",  # 3
     7: "Low Risk",       # 1
