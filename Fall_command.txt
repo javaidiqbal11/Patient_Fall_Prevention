@@ -1,2 +1,2 @@
-----------------------Final Command-----------
+----------------------Final Command to Create the Installer-----------
 python -m PyInstaller fall_detector.py --clean --noconfirm --noconsole --hidden-import=pytorch --collect-data torch --collect-all torch --collect-data torchvision --hidden-import=torchvision --collect-all torchvision --icon=icon.ico --add-data "D:\DoctorAI\Patient_Fall_Detection\model;model/" --add-data "D:\DoctorAI\Patient_Fall_Detection\vis;vis/"
