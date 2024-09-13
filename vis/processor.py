@@ -5,6 +5,7 @@ import PIL
 import torch
 import numpy as np
 
+# This class shows the processor defined 
 
 class Processor(object):
     def __init__(self, width_height, args):
