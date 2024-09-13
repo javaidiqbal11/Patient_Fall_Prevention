@@ -57,7 +57,7 @@ This project uses pre-trained pose estimation models. If you need to train or fi
 3. Run the training command:
 
 ```shell
-python train_model.py
+python algorithm.py
 ```
 
 ## Contributions
