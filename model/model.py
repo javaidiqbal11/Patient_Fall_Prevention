@@ -1,5 +1,6 @@
 import torch.nn as nn
 
+# More deep learning models can be trained for the best results in the detection
 
 class LSTMModel(nn.Module):
     def __init__(self, input_dim=5, h_RNN_layers=2, h_RNN=256, drop_p=0.2, num_classes=1):
