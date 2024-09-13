@@ -10,7 +10,7 @@ This project aims to provide a real-time solution for detecting and preventing p
 - Windows Installer: Available as an executable for easy installation on Windows systems.
 - Server Deployment: Supports deployment on servers for use in larger healthcare networks.
 
-##Requirements
+## Requirements
 Python 3.10
 PyTorch
 OpenCV
