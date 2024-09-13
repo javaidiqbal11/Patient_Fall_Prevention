@@ -21,7 +21,7 @@ Other dependencies listed in `requirements.txt`
 1- Clone this repository:
 
 ```shell
-git clone https://github.com/your-repo/patient-fall-detection.git
+git clone https://github.com/javaidiqbal11/Patient_Fall_Detection.git
 cd patient-fall-detection
 ```
 2. Install the required packages:
