@@ -11,12 +11,10 @@ This project aims to provide a real-time solution for detecting and preventing p
 - Server Deployment: Supports deployment on servers for use in larger healthcare networks.
 
 ## Cases
- 5: 
-    7: "Low Risk",       # 1
-    8: 
-    12: "Moderate",      # 2
-    "Highest Alert",  # 3
-    "Emergency",      # 4
+`case 1:` Low Risk
+`case 2:` Moderate
+`case 3:` Highest Alert
+`case 4:` Emergency
 
 ## Requirements
 Python 3.10
