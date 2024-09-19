@@ -1,3 +1,5 @@
+# This code file used to calculate the keypoints for the body joints 
+
 from enum import IntEnum, unique
 from typing import List
 import numpy as np
