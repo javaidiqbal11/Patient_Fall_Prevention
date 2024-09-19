@@ -11,16 +11,16 @@ This project aims to provide a real-time solution for detecting and preventing p
 - Server Deployment: Supports deployment on servers for use in larger healthcare networks.
 
 ## Cases
-`case 1:` Low Risk
-`case 2:` Moderate
-`case 3:` Highest Alert
-`case 4:` Emergency
+`case 1:` Low Risk <br>
+`case 2:` Moderate <br>
+`case 3:` Highest Alert <br>
+`case 4:` Emergency <br>
 
 ## Requirements
-Python 3.10
-PyTorch
-OpenCV
-Numpy
+Python 3.10 <br>
+PyTorch <br>
+OpenCV <br>
+Numpy <br>
 Other dependencies listed in `requirements.txt`
 
 ## Installation
