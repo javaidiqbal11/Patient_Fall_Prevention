@@ -10,6 +10,14 @@ This project aims to provide a real-time solution for detecting and preventing p
 - Windows Installer: Available as an executable for easy installation on Windows systems.
 - Server Deployment: Supports deployment on servers for use in larger healthcare networks.
 
+## Cases
+ 5: 
+    7: "Low Risk",       # 1
+    8: 
+    12: "Moderate",      # 2
+    "Highest Alert",  # 3
+    "Emergency",      # 4
+
 ## Requirements
 Python 3.10
 PyTorch
