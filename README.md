@@ -73,6 +73,9 @@ Here are the short and precise points based on the repository:
 - Multipose or Single Pose: Multi-pose estimation for detecting multiple persons.
 - Standing or Walking Identification: Uses key body points (legs, torso) to identify standing or walking postures.
 - Algorithm Used: OpenPose algorithm for real-time pose detection.
+- Sample Keypoints: Nose, neck, shoulders, elbows, wrists, hips, knees, and ankles.
+- Deep Learning Algorithm: Convolutional Neural Networks (CNN) used in OpenPose.
+- Dataset: Custom dataset or open datasets related to human pose and activity recognition (likely using datasets like COCO or MPII).
 
 ## Contributions
 We welcome contributions! Please follow the standard GitHub flow for submitting pull requests.
