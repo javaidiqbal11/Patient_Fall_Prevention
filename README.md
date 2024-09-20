@@ -66,5 +66,13 @@ This project uses pre-trained pose estimation models. If you need to train or fi
 python algorithms.py
 ```
 
+## Importent Points 
+Here are the short and precise points based on the repository:
+
+- Pose Estimation: OpenPose-based pose estimation technique.
+- Multipose or Single Pose: Multi-pose estimation for detecting multiple persons.
+- Standing or Walking Identification: Uses key body points (legs, torso) to identify standing or walking postures.
+- Algorithm Used: OpenPose algorithm for real-time pose detection.
+
 ## Contributions
 We welcome contributions! Please follow the standard GitHub flow for submitting pull requests.
