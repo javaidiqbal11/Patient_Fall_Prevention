@@ -67,7 +67,7 @@ python algorithms.py
 ```
 
 ## Importent Points 
-Here are the short and precise points based on the repository:
+Here are the short and precise points:
 
 - `Pose Estimation`: OpenPose-based pose estimation technique.
 - `Multipose or Single Pose`: Multi-pose estimation for detecting multiple persons.
