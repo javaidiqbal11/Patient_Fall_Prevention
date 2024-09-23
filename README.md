@@ -4,7 +4,7 @@
 This project aims to provide a real-time solution for detecting and preventing patient falls in healthcare settings. Using deep learning approaches and pose estimation, the system monitors and alerts healthcare staff when a fall is detected. The project is built using Python 3.10 and the PyTorch framework and is designed to run on Windows, with support for both standalone and server deployment. Pose estimation approach used to find the key-points for the patient. 
 
 ## Features
-- `Real-Time Detection`: Continuously monitors patients to detect falls in real-time.
+- `Real-Time Patient Detection`: Continuously monitors patients to detect falls in real-time.
 - `Pose Estimation`: Leverages pose estimation models to analyze patient movements and identify potential fall risks.
 - `Deep Learning`: Utilizes state-of-the-art deep learning techniques to improve accuracy.
 - `Windows Installer`: Available as an executable for easy installation on Windows systems.
