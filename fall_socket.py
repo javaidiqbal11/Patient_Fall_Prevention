@@ -1,4 +1,4 @@
-# Server and Client Socket Program 
+# Server and Client Socket Program (Socket based Deployment) 
 import time
 import ipc
 import logging
